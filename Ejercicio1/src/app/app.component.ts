@@ -6,10 +6,5 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'Gestión de Proyectos';
-
-  buscar(evt){
-    console.log("Barra");
-    console.log(evt);
-  }
+  title = 'Ejercicio1';
 }
